@@ -1,0 +1,6 @@
+framework module Pods_SnapKitBasicTutorial2 {
+  umbrella header "Pods-SnapKitBasicTutorial2-umbrella.h"
+
+  export *
+  module * { export * }
+}
